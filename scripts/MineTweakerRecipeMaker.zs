@@ -21,7 +21,7 @@
 
 // ================================================================================
 //#MARKER ADD SHAPED
-recipes.addShaped(<classyhats:phantom_thread>, [[<ebwizardry:crystal_shard>, <ebwizardry:crystal_shard>, <ebwizardry:crystal_shard>], [<ebwizardry:crystal_shard>, <ore:itemTieStrong>, <ebwizardry:crystal_shard>], [<ebwizardry:crystal_shard>, <ebwizardry:crystal_shard>, <ebwizardry:crystal_shard>]]);
+recipes.addShaped(<classyhats:phantom_thread>, [[<ebwizardry:crystal_shard>, <ebwizardry:crystal_shard>, <ebwizardry:crystal_shard>], [<ebwizardry:crystal_shard>, <ore:string>, <ebwizardry:crystal_shard>], [<ebwizardry:crystal_shard>, <ebwizardry:crystal_shard>, <ebwizardry:crystal_shard>]]);
 recipes.addShaped(<ancientspellcraft:soulbound_upgrade>, [[<ebwizardry:magic_crystal>, <minecraft:golden_helmet>.anyDamage(), <ebwizardry:magic_crystal>], [<ebwizardry:blank_scroll>, <minecraft:golden_chestplate>.anyDamage(), <ebwizardry:blank_scroll>], [<ebwizardry:magic_crystal>, <minecraft:golden_leggings>.anyDamage(), <ebwizardry:magic_crystal>]]);
 
 // ================================================================================
